@@ -128,7 +128,7 @@ def creator(mainWindow):
     msg.setText("")
     msg.move(-100,-100)
     try:
-        webbrowser.open("https://www.instagram.com/wolfpiedro.art/")
+        webbrowser.open("https://www.instagram.com/piedro_404/")
     except:
         error.setText(f"Houve Algum erro!")
         error.move(280,-10)
