@@ -1,8 +1,6 @@
 # PearTube
 Personal Project that aims to download music and videos directly from youtube using Python
 
-![image](https://user-images.githubusercontent.com/88720549/163218876-f8c76bd7-3883-4683-a513-75720051489b.png)
-
 # Message for you
 Hello, I hope you have a good learning experience, that you can clear your doubts or implement your projects. Feel free to make suggestions to improve the script.
 
